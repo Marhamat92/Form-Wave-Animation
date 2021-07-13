@@ -1,2 +1,2 @@
 # Form-Wave-Animation
-When you clicl on inputs labels go up with beautiful transition.
+When you click on inputs labels go up with beautiful transition.
